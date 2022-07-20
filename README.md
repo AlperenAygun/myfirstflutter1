@@ -21,4 +21,4 @@ It has 3 pages.
 
 P.S: I created this app in Turkish language.
 
-Alperen AYGÜN
+Alperen AYGÜN - 2022
